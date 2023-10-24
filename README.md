@@ -1,4 +1,4 @@
-![ThiagoThmaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoThmaz&theme=transparent&icons=true)
+![ThiagoThmaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoThmaz&theme=radical&icons=true)
 
 ## Estou aprendendo
 
