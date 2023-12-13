@@ -1,12 +1,30 @@
 ![ThiagoThmaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoThmaz&theme=radical&icons=true)
 
-## Estou aprendendo
+### Bem vindo 👋🏼
+ 
+# Primeiro semestre de ADS 💻
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<!--<img align="right" width="100px" heigth="100px" src="https://www.sptech.school/assets/images/logos/sptech_logo_negativa_1.png "/>-->
 
-## Contatos:
+![Suzane GitHub stats](https://github-readme-stats.vercel.app/api?username=SuzaneMendes12&show_icons=true&theme=neon)
+<img width=40%  src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=SuzaneMendes12&show_icons=true&theme=radical&layout=compact"/>
+ </div>
+<!--   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuzaneMendes12&langs_count=8) -->
 
-<div>
-<a href="https://instagram.com/thiago_thmaz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "thiago.conceicao@sptech.school-ThiagoThmaz"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+## Aprendendo no dia a dia 
+<div style = "dispay: inline_block"><br>
+  
+<img align= "center"  src ="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img align= "center" src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img align= "center" src ="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img align= "center" src ="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<img align= "center" src ="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red"/>
+
+<img align= "center" src ="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+ <img align= "center" src = "https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+</div> <br>
