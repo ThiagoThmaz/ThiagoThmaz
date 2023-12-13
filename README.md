@@ -1,5 +1,3 @@
-![ThiagoThmaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoThmaz&theme=radical&icons=true)
-
 ### Bem vindo 👋🏼
  
 # Primeiro semestre de ADS 💻
