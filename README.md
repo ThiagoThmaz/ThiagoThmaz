@@ -2,8 +2,6 @@
  
 # No Primeiro semestre de ADS 💻
 
-<img align="right" width="100px" heigth="100px" src="https://www.sptech.school/assets/images/logos/sptech_logo_negativa_1.png "/>
-
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoThmaz&show_icons=true&theme=neon)
 <img width =300px% src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=ThiagoThmaz&show_icons=true&theme=radical&layout=compact"/>
  </div>
