@@ -10,7 +10,7 @@
 <!--   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuzaneMendes12&langs_count=8) -->
 
 ## Aprendendo no dia a dia 
-<div style = "dispay: inline_block"><br>
+<div style = "dispay: inline_block">
   
 <img align= "center"  src ="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 
@@ -25,7 +25,7 @@
 <img align= "center" src ="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 
  <img align= "center" src = "https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-</div> <br>
+</div>
 
 ## Futuro Analista e Desenvolvedor
 <div>
