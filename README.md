@@ -2,8 +2,8 @@
  
 # No Primeiro semestre de ADS 💻
 
-![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoThmaz&show_icons=true&theme=neon)
-<img width =300px src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=ThiagoThmaz&show_icons=true&theme=radical&layout=compact"/>
+![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoThmaz&show_icons=true&theme=neon)<br><br>
+<img width =465px src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=ThiagoThmaz&show_icons=true&theme=radical&layout=compact"/>
  </div>
 <!--   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuzaneMendes12&langs_count=8) -->
 
