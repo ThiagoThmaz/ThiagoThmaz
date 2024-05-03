@@ -1,7 +1,4 @@
 # Olá Pessoal!
-
-<img src="https://raw.githubusercontent.com/Pedro-Henrique3216/ThiagoThmaz/output/snake.svg" alt="Snake animation" />
-
 <p>
   - Olá, Meu nome e Thiago Thomaz 
 
@@ -20,7 +17,7 @@
   ##
 
 ### STATUS
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pedro-Henrique3216&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ThiagoThmaz&theme=dark)](https://git.io/streak-stats)
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=ThiagoThmaz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
