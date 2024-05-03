@@ -58,15 +58,9 @@
   ##
 
  ### 💬 Contato
- 
-<div> 
-  <a href = "mailto:thiago.conceicao@sptech.scholl"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-<br clear="both">
 
 <!--
-**Pedro-Henrique3216/Pedro-Henrique3216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ThiagoThmaz/ThiagoThmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
