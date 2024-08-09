@@ -7,13 +7,6 @@
   - Futuro Analista de Sistemas
 </p>
 
-<details>
-  <summary>Sobre mim</summary>
-
-  - Tenho 20 anos, e vivo em prol da minha felicidade e pra aqueles que são importantes pra mim
-     
-</details>
-
   ##
 
 ### STATUS
