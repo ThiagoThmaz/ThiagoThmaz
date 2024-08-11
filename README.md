@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Atualmente estou fazendo faculdade na FIAP 🐲 <br>- Gosto de Jogos e Animes 🐲<br>- Como podem ver, eu amo a Kim Pines 🧡 <br>- Sou um Futuro Desenvolvedor 🧧</p>
+<p align="left">- Atualmente estou fazendo faculdade na FIAP 🐲 <br>- Gosto de Jogos e Animes 🎮<br>- Como podem ver, eu amo a Kim Pines 🧡 <br>- Sou um Futuro Desenvolvedor 🧧</p>
 
 ###
 
