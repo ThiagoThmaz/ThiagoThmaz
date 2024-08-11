@@ -8,22 +8,22 @@
 
 ###
 
-<h2 align="left">STATUS ✨</h2>
+<h2 align="center">STATUS ✨</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThiagoThmaz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiagoThmaz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=gruvbox_light&hide_border=false&order=2" height="180" alt="languages graph"  />
 </div>
 
 ###
 
-<h2 align="left">TECNOLOGIAS ✨</h2>
+<h2 align="center">TECNOLOGIAS ✨</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -39,12 +39,7 @@
 
 ###
 
-<div align="left">
-</div>
-
-###
-
-<h2 align="left">COMMITS 🐍 </h2>
+<h2 align="center">COMMITS 🐍 </h2>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThiagoThmaz/ThiagoThmaz/output/github-contribution-grid-snake-dark.svg">
