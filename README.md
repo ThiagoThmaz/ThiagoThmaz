@@ -1,4 +1,4 @@
-<h2 align="left">Olá, meu nome e Thiago Thomaz Sales Conceição</h2>
+<h2 align="left">Olá, meu nome e Thiago Thomaz</h2>
 
 ###
 
