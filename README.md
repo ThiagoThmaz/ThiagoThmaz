@@ -2,15 +2,17 @@
 
 ###
 
-<p align="left">- Atualmente estou fazendo faculdade na FIAP<br>- Gosto de Jogos e Animes <br>- Como pode ver eu amo a Kim Pines<br>- Sou um Futuro Desenvolvedor</p>
+<p align="left">- Atualmente estou fazendo faculdade na FIAP<br>- Gosto de Jogos e Animes <br>- Como podem ver, eu amo a Kim Pines<br>- Sou um Futuro Desenvolvedor</p>
+
+###
+
+<div align="left">
+  <img height="187" src="https://i.pinimg.com/736x/fd/f9/5e/fdf95e087204ead91193bd7673098b4c.jpg"  />
+</div>
 
 ###
 
 <h2 align="left">STATUS</h2>
-
-###
-
-<img align="left" height="187" src="https://i.pinimg.com/736x/fd/f9/5e/fdf95e087204ead91193bd7673098b4c.jpg"  />
 
 ###
 
@@ -45,6 +47,7 @@
 </div>
 
 ###
+
 <h2 align="left">Commits</h2>
 
 <picture align="center">
