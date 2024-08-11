@@ -1,4 +1,6 @@
-<h2 align="left">Olá, meu nome e Thiago Thomaz 🙂 </h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f5f5dc&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5f5dc&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thiago+Thomaz;I'm+20+years+old;I+am+from+SÃO+PAULO,+SP;I+study+analysis+and+systems+development+at+Fiap;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ###
 
