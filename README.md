@@ -1,8 +1,8 @@
-<h2 align="left">Olá, meu nome e Thiago Thomaz</h2>
+<h2 align="left">Olá, meu nome e Thiago Thomaz 🙂 </h2>
 
 ###
 
-<p align="left">- Atualmente estou fazendo faculdade na FIAP<br>- Gosto de Jogos e Animes <br>- Como podem ver, eu amo a Kim Pines<br>- Sou um Futuro Desenvolvedor</p>
+<p align="left">- Atualmente estou fazendo faculdade na FIAP 🐲 <br>- Gosto de Jogos e Animes 🐲<br>- Como podem ver, eu amo a Kim Pines 🧡 <br>- Sou um Futuro Desenvolvedor 🧧</p>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">STATUS</h2>
+<h2 align="left">STATUS ✨</h2>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<h2 align="left">TECNOLOGIAS</h2>
+<h2 align="left">TECNOLOGIAS ✨</h2>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h2 align="left">COMMITS</h2>
+<h2 align="left">COMMITS 🐍 </h2>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThiagoThmaz/ThiagoThmaz/output/github-contribution-grid-snake-dark.svg">
