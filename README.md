@@ -8,6 +8,10 @@
 
 ###
 
+<h3 align="center">Sou do Amapá e atualmente estou em São Paulo para me tornar um Tecnólogo Full Stack. Apaixonado por jogos e animes, também pratico natação e musculação. Nos meus momentos livres, gosto de estudar, assistir animes ou jogar em algum jogo. Tenho um gosto musical eclético, embora existam algumas exceções.</h3>
+
+###
+
 <h2 align="center">STATUS ✨</h2>
 
 ###
