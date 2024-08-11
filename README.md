@@ -1,3 +1,9 @@
+ <picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThiagoThmaz/ThiagoThmaz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThiagoThmaz/ThiagoThmaz/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ThiagoThmaz/ThiagoThmaz/output/github-contribution-grid-snake.svg">
+</picture>
+
 # Olá Pessoal!
 <p>
   - Olá, Meu nome e Thiago Thomaz 
@@ -17,8 +23,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiagoThmaz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-  ##
-
 ### 🚀 Tecnologias  
 
 <div align="left">
@@ -35,7 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
- ### 
+###
 
 <!--
 **ThiagoThmaz/ThiagoThmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
