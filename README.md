@@ -1,16 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f5f5dc&height=120&section=header"/>
 
+<div align="center">
+  <img height="187" src="https://i.pinimg.com/736x/fd/f9/5e/fdf95e087204ead91193bd7673098b4c.jpg"  />
+</div><br>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5f5dc&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thiago+Thomaz;I'm+20+years+old;I+am+from+SÃO+PAULO,+SP;I+study+Analise+Desenvolvimento+de+Sistemas+na+Fiap;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 ###
 
 <p align="left">- Atualmente estou fazendo faculdade na FIAP 🐲 <br>- Gosto de Jogos e Animes 🎮<br>- Como podem ver, eu amo a Kim Pines 🧡 <br>- Sou um Futuro Desenvolvedor 🧧</p>
 
 ###
-
-<div align="left">
-  <img height="187" src="https://i.pinimg.com/736x/fd/f9/5e/fdf95e087204ead91193bd7673098b4c.jpg"  />
-</div>
 
 ###
 
