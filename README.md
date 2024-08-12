@@ -4,7 +4,7 @@
   <img height="187" src="https://i.pinimg.com/736x/b4/17/52/b417527a6e03dda79b74544bb21c1827.jpg"  />
 </div><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5f5dc&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Thiago+Thomaz;Eu+tenho+20+anos+de+idade;Estou+morando+em+São+Paulo;+Estudo+Análise+Desenvolvimento+de+Sistemas+na+Fiap;Bem+vindo!+%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5f5dc&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Thiago+Thomaz;Eu+tenho+20+anos+de+idade;Estou+morando+em+São+Paulo;+Estudo+Análise+Desenvolvimento+de+Sistemas+na+Fiap;Bem+vindo!+:%29)](https://git.io/typing-svg)
 
 ###
 
