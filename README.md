@@ -10,6 +10,10 @@
 
 <h3 align="center">Sou do Amapá e atualmente estou em São Paulo para me tornar um Tecnólogo Full Stack. Apaixonado por jogos e animes, também pratico natação e musculação. Nos meus momentos livres, gosto de estudar, assistir animes ou jogar em algum jogo. Tenho um gosto musical eclético, embora existam algumas exceções.</h3>
 
+<div align="center">  
+<a href="https://www.instagram.com/thiago_thmaz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div> 
+
 ###
 
 <h2 align="center">STATUS ✨</h2>
