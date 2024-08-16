@@ -10,11 +10,11 @@
 
 <h3 align="center">Sou do Amapá e atualmente estou em São Paulo para me tornar um Tecnólogo Full Stack. Apaixonado por jogos e animes, também pratico natação e musculação. Nos meus momentos livres, gosto de estudar, assistir animes ou jogar em algum jogo. Tenho um gosto musical eclético, embora existam algumas exceções.</h3>
 
+
 <div align="center">  
  <a href="https://instagram.com/thiago_thmaz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/thiago-thomaz-9148362b6/a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:thmaz16salles@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div> 
 
 ###
 
@@ -50,6 +50,8 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="py" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 
 ### Editores:
   
