@@ -60,8 +60,20 @@
   <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img align="center" alt="trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
  
-</div>
+</div><br>
 
 ###
+
+<div align="center">  
+
+<h2 align="center">COMMITS 🐍</h2>
+  
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThiagoThmaz/ThiagoThmaz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThiagoThmaz/ThiagoThmaz/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ThiagoThmaz/ThiagoThmaz/output/github-contribution-grid-snake.svg">
+</picture>
+ 
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f5f5dc&height=120&section=footer"/>
