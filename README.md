@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f5f5dc&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=header"/>
 
 <div align="center">
   <img height="187" src="https://i.pinimg.com/736x/b4/17/52/b417527a6e03dda79b74544bb21c1827.jpg"  />
 </div><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5f5dc&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Thiago+Thomaz;Eu+tenho+20+anos+de+idade;Estou+morando+em+São+Paulo;+Estudo+Análise+Desenvolvimento+de+Sistemas+na+Fiap;Bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Thiago+Thomaz;Eu+tenho+20+anos+de+idade;Estou+morando+em+São+Paulo;+Estudo+Análise+Desenvolvimento+de+Sistemas+na+Fiap;Bem+vindo!+:%29)](https://git.io/typing-svg)
 
 ###
 
@@ -23,11 +23,11 @@
 ###
   
  <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ThiagoThmaz&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=white&bg_color=0d1117" alt="Thiago Thomaz github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoThmaz&layout=compact&hide_border=true&title_color=00bfbf&text_color=white&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ThiagoThmaz&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=fff&bg_color=0d1117" alt="Thiago Thomaz github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoThmaz&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiagoThmaz&bg_color=000000&color=f5f5dc&line=f5f5dc&point=00bfbf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiagoThmaz&bg_color=000000&color=fff&line=fff&point=00bfbf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -76,4 +76,4 @@
  
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f5f5dc&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=footer"/>
