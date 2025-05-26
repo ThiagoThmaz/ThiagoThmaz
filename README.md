@@ -14,8 +14,8 @@
 
 
 <div align="center">  
- <a href="https://instagram.com/thiago_thmaz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=f7e3db" target="_blank"></a>
- <a href="https://www.linkedin.com/in/thiago-thomaz-9148362b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://instagram.com/thiago_thmaz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=ece6ff" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/thiago-thomaz-9148362b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=ece6ff" target="_blank"></a> 
  <a href ="mailto:thmz.salles@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ###
@@ -25,11 +25,11 @@
 ###
   
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ThiagoThmaz&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=00bfbf&text_color=ffff&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoThmaz&layout=compact&hide_border=true&title_color=fff&text_color=ffff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ThiagoThmaz&show_icons=true&count_private=true&hide_border=true&title_color=ece6ff&icon_color=00bfbf&text_color=ece6ff&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoThmaz&layout=compact&hide_border=true&title_color=ece6ff&text_color=ece6ff&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiagoThmaz&bg_color=000000&color=fff&line=fff&point=00bfbf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiagoThmaz&bg_color=000000&color=fff&line=fff&point=ece6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
