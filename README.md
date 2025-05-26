@@ -1,4 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffee&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ece6ff&height=120&section=header"/>
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/61/3c/d1/613cd1c13b42e8f540d6a3cd256bf2f0.gif"/>
+</div>
+
+###
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffafa&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Thiago+Thomaz;Eu+tenho+21+anos+de+idade;Estou+morando+em+São+Paulo;+Estudo+Análise+Desenvolvimento+de+Sistemas+na+Fiap;Bem+vindo!+:%29)](https://git.io/typing-svg)
 
@@ -8,7 +14,7 @@
 
 
 <div align="center">  
- <a href="https://instagram.com/thiago_thmaz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://instagram.com/thiago_thmaz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=f7e3db" target="_blank"></a>
  <a href="https://www.linkedin.com/in/thiago-thomaz-9148362b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href ="mailto:thmz.salles@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
@@ -31,36 +37,6 @@
   
 </div>
 
-###
-
-<h2 align="center">TECNOLOGIAS ✨</h2>
-
-###
-
-<div align="center">
-
-### Linguagens:
-  
-  <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="Py" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-
-### Editores:
-  
-  <img align="center" alt="oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
-  <img align="center" alt="inteli" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img align="center" alt="trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
- 
-</div><br>
-
-###
-
 <div align="center">  
 
 <h2 align="center">COMMITS 🐍</h2>
@@ -73,4 +49,30 @@
  
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffee&height=120&section=footer"/>
+###
+
+<h2 align="center">TECNOLOGIAS ✨</h2>
+
+###
+
+<div align="center">
+  
+  <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="Py" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+
+###
+  
+  <img align="center" alt="oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
+  <img align="center" alt="inteli" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img align="center" alt="trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+ 
+</div><br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ece6ff&height=120&section=footer"/>
