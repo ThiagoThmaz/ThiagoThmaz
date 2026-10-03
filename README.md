@@ -6,11 +6,11 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffafa&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Thiago+Thomaz;Eu+tenho+21+anos+de+idade;Estou+morando+em+São+Paulo;+Estudo+Análise+Desenvolvimento+de+Sistemas+na+Fiap;Bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffafa&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Thiago+Thomaz;Eu+tenho+21+anos+de+idade;Estou+morando+em+Floripa;+Graduado+em+Análise+Desenvolvimento+de+Sistemas+na+Fiap;Bem+vindo!+:%29)](https://git.io/typing-svg)
 
 ###
 
-<h3 align="center">Sou do Amapá e atualmente estou em São Paulo para me tornar um Tecnólogo Full Stack. Apaixonado por jogos e animes, também pratico natação e musculação. Nos meus momentos livres, gosto de estudar, assistir animes ou jogar em algum jogo. Tenho um gosto musical eclético, embora existam algumas exceções.</h3>
+<h3 align="center">Sou do Amapá e atualmente estou em Floripa para me tornar um Tecnólogo Full Stack. Apaixonado por jogos e animes, também pratico natação e musculação. Nos meus momentos livres, gosto de estudar, assistir animes ou jogar em algum jogo. Tenho um gosto musical eclético, embora existam algumas exceções.</h3>
 
 
 <div align="center">  
